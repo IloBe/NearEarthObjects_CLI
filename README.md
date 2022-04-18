@@ -93,6 +93,8 @@ From this dataset, you can answer questions such as "On which date(s) does Halle
 
 The data is JSON-formatted, and we've downloaded it from NASA's public API. A description of the API, as well as details about the query parameters and the scheme of the returned data, can be found [here](https://ssd-api.jpl.nasa.gov/doc/cad.html). Concretely, we asked NASA for this data by querying the API at `https://ssd-api.jpl.nasa.gov/cad.api?date-min=1900-01-01&date-max=2100-01-01&dist-max=1`. In other words, our data set contains all currently known close approaches that have happened or will happen in the 20th and 21st centuries! Additionally, NASA provides the data is chronological order.
 
+Note: In this repository, this .json file is added as compressed zip file, because GitHub stores files <=25MB. So, before using this commond line NEO tool, you have to unzip the file in the data directory.
+
 Let's take an initial look at the data in `cad.json`.
 
 ```json
