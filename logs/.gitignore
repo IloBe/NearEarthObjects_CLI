@@ -1,0 +1,4 @@
+# for detailed info: https://github.com/github/gitignore/blob/main/Python.gitignore
+
+# logging stuff:
+*.log
