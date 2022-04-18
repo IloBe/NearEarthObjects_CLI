@@ -76,7 +76,7 @@ Every NEO has a primary designation, but there exist NEOs without names (in fact
 
 If you'd like to explore individual NEOs in more detail (and perhaps interpret a few of the rest of the columns), NASA also provides a [web interface to search for a single small body](https://ssd.jpl.nasa.gov/sbdb.cgi) as well as [an API](https://ssd-api.jpl.nasa.gov/doc/sbdb.html).
 
-Furthermore, the [European NEO web page](https://www.esa.int/Safety_Security/Near-Earth_Objects_-_NEO_Segment) delivered by the space agency, explains NEO'S as:<br>
+Furthermore, the [European NEO web page](https://www.esa.int/Safety_Security/Near-Earth_Objects_-_NEO_Segment) delivered by the space agency, explains NEOs as:<br>
 "Near-Earth objects (NEOs) are asteroids or comets of sizes ranging from metres to tens of kilometres that orbit the Sun and whose orbits come close to that of Earth’s. Of the more than 600 000 known asteroids in our Solar System, more than 20 000 are NEOs."
 
 Their example is "[25143 Itokawa](https://www.esa.int/Science_Exploration/Space_Science/AKARI_s_observations_of_asteroid_Itokawa), an object about 300 m in diameter that was visited by the Japanese spacecraft Hayabusa in 2005."
