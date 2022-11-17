@@ -441,7 +441,7 @@ The **data files** are located in the `data/` folder.
 
 For simple **logging behaviour** with root logger the configuration is set in the `config.py` file. For each day, the program uses a newly created log file that is stored in the logs directory. Log messages e.g. regarding program errors and workflow information are added to the log file. For the GitHub repository have in mind: The .gitignore file is modified, not to transfer the specific log files to the repository.
 
-Additionally, the starter code includes **unit tests** that will help you check your progress as you advance through this project. The unit tests all live in the `tests/` folder. When the project is fully implemented, all of the unit tests should pass. To run all of the tests, you can use `python3 -m unittest --verbose` at the command line, although many tests will currently fail since the project isn't yet finished.
+Additionally, the starter code includes **unit tests** that will help you check your progress as you advance through this project. The unit tests all live in the `tests/` folder. When the project is fully implemented, all of the unit tests should pass. To run all of the tests, you can use `python3 -m unittest --verbose` at the command line.
 
 ## Tasks to Complete
 
